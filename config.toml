@@ -1,12 +1,13 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://9299-103-93-36-22.ngrok.io'
 languageCode = 'en-us'
 title = 'Himadree Das'
 theme = 'hyde'
 
 [Menu]
     main = [
-        {Name = "Curriculum Vitae", URL = "/static/CV.pdf"}
+        {Name = "Curriculum Vitae", URL = "/CV.pdf"}
     ]
 
 [params]
     description = "Brief summary of my doctoral research progress"
+    layoutReverse = true

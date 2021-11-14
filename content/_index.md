@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Brief summary of current work progress"
 date: 2021-11-13T17:53:30+05:30
 draft: False
 ---
