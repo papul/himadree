@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Himadree Das</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Himadree Das</description>
+    <title>Brief summary of current work progress on Himadree Das</title>
+    <link>http://about.kakati.email/himadree/</link>
+    <description>Recent content in Brief summary of current work progress on Himadree Das</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Nov 2021 17:53:30 +0530</lastBuildDate><atom:link href="http://about.kakati.email/himadree/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
