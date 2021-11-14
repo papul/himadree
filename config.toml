@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Himadree Das'
+theme = 'hyde'
+
+[Menu]
+    main = [
+        {Name = "Curriculum Vitae", URL = "/static/CV.pdf"}
+    ]
+
+[params]
+    description = "Brief summary of my doctoral research progress"
