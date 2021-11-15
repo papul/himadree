@@ -6,6 +6,12 @@ theme = 'hyde'
 [Menu]
     main = [
         {Name = "Curriculum Vitae", URL = "/CV.pdf"}
+        {Name = "Education", URL = "/education"}
+        {Name = "Experience", URL = "/experience"}
+        {Name = "Area of Research", URL = "/research"}
+        {Name = "Publications", URL = "/publications"}
+        {Name = "Conferences Attended", URL = "/conferences"}
+        {Name = "Contact", URL = "/contact"}
     ]
 
 [params]
